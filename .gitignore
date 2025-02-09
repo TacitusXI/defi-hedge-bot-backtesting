@@ -1,0 +1,14 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env
+
+# Data files (if you don't want to track generated data)
+data/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
