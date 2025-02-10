@@ -40,8 +40,6 @@ The goal of this project is to mitigate the impermanent loss that liquidity prov
 
 Hedge the impermanent loss in a Uniswap V2 ETH/USDC liquidity pool using Binance perpetual contracts, thereby reducing portfolio volatility and achieving higher end-of-year returns compared to simply holding the assets or maintaining an unhedged LP position.
 
-### Functional Blocks
----
 
 ## Formulas and Calculations
 
